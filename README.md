@@ -59,3 +59,7 @@ This project was completed as part of my Data Visualization Internship at Cognif
 ## Author
 
 **Keshav Girdhar**
+
+## Connect with Me
+
+- LinkedIn: www.linkedin.com/in/keshav-girdhar-54949134a
